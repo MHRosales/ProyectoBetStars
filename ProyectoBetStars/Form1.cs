@@ -18,5 +18,12 @@ namespace ProyectoBetStars
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form4 nuevaventana = new Form4();
+            nuevaventana.Show();
+        }
     }
 }
