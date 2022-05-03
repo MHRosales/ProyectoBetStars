@@ -52,7 +52,7 @@
             // 
             this.button2.BackColor = System.Drawing.Color.White;
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.Location = new System.Drawing.Point(1773, 12);
+            this.button2.Location = new System.Drawing.Point(1245, 12);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(139, 136);
             this.button2.TabIndex = 22;
@@ -74,7 +74,7 @@
             this.button11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button11.Font = new System.Drawing.Font("Showcard Gothic", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button11.ForeColor = System.Drawing.SystemColors.Menu;
-            this.button11.Location = new System.Drawing.Point(1415, 46);
+            this.button11.Location = new System.Drawing.Point(869, 46);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(352, 54);
             this.button11.TabIndex = 102;
@@ -86,7 +86,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1924, 1000);
+            this.ClientSize = new System.Drawing.Size(1422, 853);
             this.Controls.Add(this.button11);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.button2);
