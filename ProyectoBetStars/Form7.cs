@@ -72,5 +72,10 @@ namespace ProyectoBetStars
             Form15 nuevaventana = new Form15();
             nuevaventana.Show();
         }
+
+        private void Form7_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
