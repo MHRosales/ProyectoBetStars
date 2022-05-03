@@ -86,7 +86,7 @@
             this.button9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button9.Location = new System.Drawing.Point(414, 166);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(234, 288);
+            this.button9.Size = new System.Drawing.Size(234, 329);
             this.button9.TabIndex = 29;
             this.button9.UseVisualStyleBackColor = false;
             this.button9.Click += new System.EventHandler(this.button9_Click);
@@ -96,9 +96,9 @@
             this.button3.BackColor = System.Drawing.SystemColors.HotTrack;
             this.button3.BackgroundImage = global::ProyectoBetStars.Properties.Resources.bb143b4686c467bed2e804fd0a17faac__sacramento_kings_phoenix_suns;
             this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button3.Location = new System.Drawing.Point(414, 449);
+            this.button3.Location = new System.Drawing.Point(414, 490);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(234, 408);
+            this.button3.Size = new System.Drawing.Size(234, 367);
             this.button3.TabIndex = 28;
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);

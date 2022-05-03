@@ -161,5 +161,10 @@ namespace ProyectoBetStars
             pictureBox14.Visible = true;
 
         }
+
+        private void Form8_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
