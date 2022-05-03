@@ -35,5 +35,10 @@ namespace ProyectoBetStars
             Form4 nuevaventana = new Form4();
             nuevaventana.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
