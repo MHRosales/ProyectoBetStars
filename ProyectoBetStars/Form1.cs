@@ -13,5 +13,10 @@ namespace ProyectoBetStars
             Form2 nuevaventana = new Form2();
             nuevaventana.Show();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
