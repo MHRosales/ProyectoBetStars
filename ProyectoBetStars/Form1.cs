@@ -10,7 +10,7 @@ namespace ProyectoBetStars
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form2 nuevaventana = new Form2();
+            Form3 nuevaventana = new Form3();
             nuevaventana.Show();
         }
 

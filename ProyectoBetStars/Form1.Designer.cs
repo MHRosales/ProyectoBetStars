@@ -38,9 +38,10 @@
             this.button1.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Image = global::ProyectoBetStars.Properties.Resources.fondo_rojo;
-            this.button1.Location = new System.Drawing.Point(25, 471);
+            this.button1.Location = new System.Drawing.Point(22, 353);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(240, 108);
+            this.button1.Size = new System.Drawing.Size(210, 81);
             this.button1.TabIndex = 10;
             this.button1.Text = "Regístrate";
             this.button1.UseVisualStyleBackColor = true;
@@ -51,9 +52,10 @@
             this.button2.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Image = global::ProyectoBetStars.Properties.Resources.fondo_azul;
-            this.button2.Location = new System.Drawing.Point(311, 471);
+            this.button2.Location = new System.Drawing.Point(272, 353);
+            this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(251, 108);
+            this.button2.Size = new System.Drawing.Size(220, 81);
             this.button2.TabIndex = 11;
             this.button2.Text = "Entrar a BetStars.";
             this.button2.UseVisualStyleBackColor = true;
@@ -61,14 +63,15 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1432, 719);
+            this.ClientSize = new System.Drawing.Size(1253, 539);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.DoubleBuffered = true;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
